@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Oct 04 15:09:07 IST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0166-3e71-f3e8-00000b90cb90 
+on database directory /home/aryann/Desktop/big_data/data/fifa-world-cup/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@11f2d52e 
+Loaded from file:/home/aryann/spark-2.3.1-bin-hadoop2.7/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_181-b13
+user.dir=/home/aryann/Desktop/big_data/data/fifa-world-cup
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-34-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
